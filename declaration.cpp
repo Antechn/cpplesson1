@@ -26,9 +26,21 @@ int main()
 
 	// multiple declarations and definitions
 	int _c, _d45, e;
-
+	int one,two;
+	one=1;
+	two=2;
+	float f,d;
+	f=1,1;
+	d=2,2;
+	char char1,char2;
+	char1=a;
+	char2=b;
+	
 	// Let us print a variable
 	cout << a123 << endl;
+	cout << char1+char2 << endl;
+	cout << f+d << endl;
+	cout << one+two << endl; 
 
 	return 0;
 }
