@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+int x;
+float y,sum;
+char oxi;
+oxi=5;
+sum=0
+boolean closeprogram = true;
+cout << "dose mou 2 arithmous";
+scanf("%d",&x);
+scanf("%f",&y);
+}
